@@ -59,7 +59,7 @@ body {
     
     .hovereffect a.info {
     text-decoration:none;
-    display:inline-block;
+    display: inline-block;
     text-transform:uppercase;
     color:#fff;
     border:1px solid #fff;
@@ -102,7 +102,7 @@ body {
 
     .center-image {
         object-fit: cover; 
-        object-position: center; /* Center the image within the element */
+        object-position: center; 
         width: 100%;
-        max-height: 200%;
+        max-height: 100%;
       }
