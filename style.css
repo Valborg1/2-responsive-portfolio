@@ -129,6 +129,11 @@ p {
     line-height: 25px;
 }
 
+.fa {
+    float: right;
+    margin-top: 15px;
+}
+
 /* Media Queries */
 
 @media screen and ( max-width: 575px ) {
